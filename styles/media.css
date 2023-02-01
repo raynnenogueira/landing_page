@@ -1,6 +1,7 @@
 @media screen and (max-width: 760px) {
     .cabecalho-navegacao {
         flex-direction: column;
+        color: red;
     }
 
     .conteudo-principal {
@@ -8,7 +9,7 @@
     }
 
     .conteudo-principal-titulo {
-        font-size: 28px;
+        font-size: 18px;
     }
 
     .conteudo-principal-subtitulo {
